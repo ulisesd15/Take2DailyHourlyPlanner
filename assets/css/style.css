@@ -1,7 +1,7 @@
 :root {
-    --main-bg-color: #f0f0f0;
-    --main-text-color: #333333;
-    --main-font-family: 'Arial', sans-serif;
+    --present: white;
+    --past: red;
+    --future: lightblue;
 }
 
 
@@ -17,3 +17,4 @@
     margin: 20px;
     
 }
+
