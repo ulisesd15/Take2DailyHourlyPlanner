@@ -23,3 +23,13 @@ Save button to store events in local storage
 Responsive design using Bootstrap
 
 Built using jQuery, jQuery UI, and Day.js for time handling
+
+
+### for the future
+add functionality to the slider in javascrip
+add maybe direct hour tags to direct to hours,
+add day and hour id to local storage
+add calendar functionality for days and notes
+clear button
+
+that will complete a smooth application for note taking
