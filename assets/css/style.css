@@ -1,7 +1,7 @@
 :root {
     --present: white;
     --past: red;
-    --future: lightblue;
+    --future: teal;
     --text: black;
 }
 
@@ -150,3 +150,10 @@ section.range-slider input:last-of-type::-moz-range-track {
     width: 100%;
     margin-top: 15px;
 }
+/* .show{ 
+    display: show;
+}
+
+.no-show{
+    display: none;
+} */
